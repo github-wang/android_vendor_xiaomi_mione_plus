@@ -19,7 +19,9 @@ PRODUCT_COPY_FILES += \
 	vendor/xiaomi/mione_plus/proprietary/lib/libacdbloader.so:obj/lib/libacdbloader.so \
 	vendor/xiaomi/mione_plus/proprietary/lib/libacdbmapper.so:obj/lib/libacdbmapper.so \
 	vendor/xiaomi/mione_plus/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
-	vendor/xiaomi/mione_plus/proprietary/lib/libv8.so:obj/lib/libv8.so
+	vendor/xiaomi/mione_plus/proprietary/lib/libv8.so:obj/lib/libv8.so \
+	vendor/xiaomi/mione_plus/proprietary/lib/libnv.so:obj/lib/libnv.so \
+	vendor/xiaomi/mione_plus/proprietary/lib/liboncrpc.so:obj/lib/liboncrpc.so \
 
 PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
@@ -53,6 +55,7 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/fw_bcmdhd_apsta.bin:system/etc/firmware/fw_bcmdhd_apsta.bin \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/fw_bcmdhd_ftm.bin:system/etc/firmware/fw_bcmdhd_ftm.bin \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/nvram.txt:system/etc/firmware/nvram.txt \
+  vendor/xiaomi/mione_plus/proprietary/lib/libnv.so:system/lib/libnv.so \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/bcm4329.hcd:system/etc/firmware/bcm4329.hcd \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/bcm4330.hcd:system/etc/firmware/bcm4330.hcd \
   vendor/xiaomi/mione_plus/proprietary/etc/init.qcom.modem_links.sh:system/etc/init.qcom.modem_links.sh \
