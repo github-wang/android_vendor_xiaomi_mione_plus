@@ -162,4 +162,15 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/usr/keylayout/mione-keypad.kl:system/usr/keylayout/mione-keypad.kl \
   vendor/xiaomi/mione_plus/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
-  vendor/xiaomi/mione_plus/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so
+  vendor/xiaomi/mione_plus/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
+  vendor/xiaomi/mione_plus/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
+  vendor/xiaomi/mione_plus/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
+  vendor/xiaomi/mione_plus/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
+  vendor/xiaomi/mione_plus/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
+  vendor/xiaomi/mione_plus/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
+  vendor/xiaomi/mione_plus/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
+  vendor/xiaomi/mione_plus/proprietary/lib/libmmcamera_hdr_lib.so:system/lib/libmmcamera_hdr_lib.so \
+  vendor/xiaomi/mione_plus/proprietary/lib/libmmcamera_image_stab.so:system/lib/libmmcamera_image_stab.so \
+  vendor/xiaomi/mione_plus/proprietary/lib/libmmcamera_interface2.so:system/lib/libmmcamera_interface2.so \
+  vendor/xiaomi/mione_plus/proprietary/lib/libmmcamera_statsproc31.so:system/lib/libmmcamera_statsproc31.so \
+  vendor/xiaomi/mione_plus/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so
