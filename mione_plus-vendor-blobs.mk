@@ -53,7 +53,7 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/fw_bcm4329_apsta.bin:system/etc/firmware/fw_bcm4329_apsta.bin \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/fw_bcmdhd.bin:system/etc/firmware/fw_bcmdhd.bin \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/fw_bcmdhd_apsta.bin:system/etc/firmware/fw_bcmdhd_apsta.bin \
-  vendor/xiaomi/mione_plus/proprietary/etc/firmware/fw_bcmdhd_ftm.bin:system/etc/firmware/fw_bcmdhd_ftm.bin \
+  vendor/xiaomi/mione_plus/proprietary/etc/firmware/fw_bcmdhd_p2p.bin:system/etc/firmware/fw_bcmdhd_p2p.bin \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/nvram.txt:system/etc/firmware/nvram.txt \
   vendor/xiaomi/mione_plus/proprietary/lib/libnv.so:system/lib/libnv.so \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/bcm4329.hcd:system/etc/firmware/bcm4329.hcd \
